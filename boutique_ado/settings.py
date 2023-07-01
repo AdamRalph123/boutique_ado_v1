@@ -26,7 +26,7 @@ SECRET_KEY = 'sk_test_51NJgzpGnSdbDBu2B20bpyvvIveQNoMkpI9lWgJ26DwUKST7cFT9Bsczxl
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['boutiqueado-ci.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['boutiqueado-ci-a95c05ea0227.herokuapp.com', 'localhost']
 
 
 # Application definition
